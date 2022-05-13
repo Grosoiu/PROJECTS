@@ -1,4 +1,0 @@
-Constanta, 0
-Bucuresti Nord, 225
-Predeal, 365
-Brasov, 391
